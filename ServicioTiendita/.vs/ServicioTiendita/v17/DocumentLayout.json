@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{319004F0-1D2F-45D7-9B33-DE8882A154CF}|pe.com.tiendita.ws\\pe.com.tiendita.ws.csproj|c:\\users\\mario\\desktop\\net\\laboratorio01\\serviciotiendita\\pe.com.tiendita.ws\\tienditawebservices.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319004F0-1D2F-45D7-9B33-DE8882A154CF}|pe.com.tiendita.ws\\pe.com.tiendita.ws.csproj|solutionrelative:pe.com.tiendita.ws\\tienditawebservices.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67D6D0-1266-40A9-BEC8-8945EE67BCA1}|pe.com.tiendita.bal\\pe.com.tiendita.bal.csproj|C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bal\\balproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB67D6D0-1266-40A9-BEC8-8945EE67BCA1}|pe.com.tiendita.bal\\pe.com.tiendita.bal.csproj|solutionrelative:pe.com.tiendita.bal\\balproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5A95B-9D20-405E-8B57-73303121E788}|pe.com.tiendita.dal\\pe.com.tiendita.dal.csproj|C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\dalproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5A95B-9D20-405E-8B57-73303121E788}|pe.com.tiendita.dal\\pe.com.tiendita.dal.csproj|solutionrelative:pe.com.tiendita.dal\\dalproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98643E7F-748C-4882-9644-645C25CCE629}|pe.com.tiendita.ui\\pe.com.tiendita.ui.csproj|C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.ui\\frmcategoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{98643E7F-748C-4882-9644-645C25CCE629}|pe.com.tiendita.ui\\pe.com.tiendita.ui.csproj|solutionrelative:pe.com.tiendita.ui\\frmcategoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5A95B-9D20-405E-8B57-73303121E788}|pe.com.tiendita.dal\\pe.com.tiendita.dal.csproj|C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\dalcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5A95B-9D20-405E-8B57-73303121E788}|pe.com.tiendita.dal\\pe.com.tiendita.dal.csproj|solutionrelative:pe.com.tiendita.dal\\dalcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67D6D0-1266-40A9-BEC8-8945EE67BCA1}|pe.com.tiendita.bal\\pe.com.tiendita.bal.csproj|C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bal\\balcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB67D6D0-1266-40A9-BEC8-8945EE67BCA1}|pe.com.tiendita.bal\\pe.com.tiendita.bal.csproj|solutionrelative:pe.com.tiendita.bal\\balcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED752B20-C897-4958-B9F6-1A51294F70E1}|pe.com.tiendita.bo\\pe.com.tiendita.bo.csproj|C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bo\\boproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED752B20-C897-4958-B9F6-1A51294F70E1}|pe.com.tiendita.bo\\pe.com.tiendita.bo.csproj|solutionrelative:pe.com.tiendita.bo\\boproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED752B20-C897-4958-B9F6-1A51294F70E1}|pe.com.tiendita.bo\\pe.com.tiendita.bo.csproj|C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bo\\bocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED752B20-C897-4958-B9F6-1A51294F70E1}|pe.com.tiendita.bo\\pe.com.tiendita.bo.csproj|solutionrelative:pe.com.tiendita.bo\\bocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|pe.com.tiendita.ws||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5A95B-9D20-405E-8B57-73303121E788}|pe.com.tiendita.dal\\pe.com.tiendita.dal.csproj|C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5A95B-9D20-405E-8B57-73303121E788}|pe.com.tiendita.dal\\pe.com.tiendita.dal.csproj|solutionrelative:pe.com.tiendita.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\DALProducto.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.dal\\DALProducto.cs",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\DALProducto.cs",
+              "RelativeToolTip": "pe.com.tiendita.dal\\DALProducto.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAwwNQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:35:41.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BALProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bal\\BALProducto.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.bal\\BALProducto.cs",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bal\\BALProducto.cs",
+              "RelativeToolTip": "pe.com.tiendita.bal\\BALProducto.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:52:34.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BOProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bo\\BOProducto.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.bo\\BOProducto.cs",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bo\\BOProducto.cs",
+              "RelativeToolTip": "pe.com.tiendita.bo\\BOProducto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA2wBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:46:48.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TienditaWebServices.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.ws\\TienditaWebServices.asmx.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.ws\\TienditaWebServices.asmx.cs",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.ws\\TienditaWebServices.asmx.cs",
+              "RelativeToolTip": "pe.com.tiendita.ws\\TienditaWebServices.asmx.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:37:28.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DALCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\DALCategoria.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.dal\\DALCategoria.cs",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\DALCategoria.cs",
+              "RelativeToolTip": "pe.com.tiendita.dal\\DALCategoria.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAcwLgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:42:04.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BALCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bal\\BALCategoria.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.bal\\BALCategoria.cs",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bal\\BALCategoria.cs",
+              "RelativeToolTip": "pe.com.tiendita.bal\\BALCategoria.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:41:39.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BOCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bo\\BOCategoria.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.bo\\BOCategoria.cs",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.bo\\BOCategoria.cs",
+              "RelativeToolTip": "pe.com.tiendita.bo\\BOCategoria.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:41:09.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCategoria.aspx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.ui\\frmCategoria.aspx",
+              "RelativeDocumentMoniker": "pe.com.tiendita.ui\\frmCategoria.aspx",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.ui\\frmCategoria.aspx",
+              "RelativeToolTip": "pe.com.tiendita.ui\\frmCategoria.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T13:36:06.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pe.com.tiendita.ws",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.ws\\pe.com.tiendita.ws.csproj",
+              "RelativeDocumentMoniker": "pe.com.tiendita.ws\\pe.com.tiendita.ws.csproj",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.ws\\pe.com.tiendita.ws.csproj",
+              "RelativeToolTip": "pe.com.tiendita.ws\\pe.com.tiendita.ws.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T14:53:52.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\Conexion.cs",
+              "RelativeDocumentMoniker": "pe.com.tiendita.dal\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Mario\\Desktop\\net\\laboratorio01\\ServicioTiendita\\pe.com.tiendita.dal\\Conexion.cs",
+              "RelativeToolTip": "pe.com.tiendita.dal\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:40:13.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

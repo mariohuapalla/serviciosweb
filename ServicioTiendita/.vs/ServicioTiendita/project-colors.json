@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4a5a95b-9d20-405e-8b57-73303121e788": {
+      "ProjectGuid": "d4a5a95b-9d20-405e-8b57-73303121e788",
+      "DisplayName": "pe.com.tiendita.dal",
+      "ColorIndex": 0
+    },
+    "ed752b20-c897-4958-b9f6-1a51294f70e1": {
+      "ProjectGuid": "ed752b20-c897-4958-b9f6-1a51294f70e1",
+      "DisplayName": "pe.com.tiendita.bo",
+      "ColorIndex": 1
+    },
+    "bb67d6d0-1266-40a9-bec8-8945ee67bca1": {
+      "ProjectGuid": "bb67d6d0-1266-40a9-bec8-8945ee67bca1",
+      "DisplayName": "pe.com.tiendita.bal",
+      "ColorIndex": 2
+    },
+    "98643e7f-748c-4882-9644-645c25cce629": {
+      "ProjectGuid": "98643e7f-748c-4882-9644-645c25cce629",
+      "DisplayName": "pe.com.tiendita.ui",
+      "ColorIndex": 3
+    },
+    "319004f0-1d2f-45d7-9b33-de8882a154cf": {
+      "ProjectGuid": "319004f0-1d2f-45d7-9b33-de8882a154cf",
+      "DisplayName": "pe.com.tiendita.ws",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

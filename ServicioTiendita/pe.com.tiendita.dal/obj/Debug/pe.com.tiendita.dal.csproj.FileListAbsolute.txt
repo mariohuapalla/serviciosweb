@@ -1,0 +1,9 @@
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.dal\bin\Debug\pe.com.tiendita.dal.dll
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.dal\bin\Debug\pe.com.tiendita.dal.pdb
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.dal\bin\Debug\pe.com.tiendita.bo.dll
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.dal\bin\Debug\pe.com.tiendita.bo.pdb
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.tiendita.dal.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.tiendita.dal.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.tiendita.dal.dll
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.tiendita.dal.pdb
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.dal\obj\Debug\pe.com.t.1E3760DA.Up2Date

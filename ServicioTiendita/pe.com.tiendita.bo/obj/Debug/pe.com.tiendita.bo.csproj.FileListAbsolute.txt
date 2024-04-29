@@ -1,0 +1,6 @@
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.bo\bin\Debug\pe.com.tiendita.bo.dll
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.bo\bin\Debug\pe.com.tiendita.bo.pdb
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.bo\obj\Debug\pe.com.tiendita.bo.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.bo\obj\Debug\pe.com.tiendita.bo.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.bo\obj\Debug\pe.com.tiendita.bo.dll
+C:\Users\Mario\Desktop\net\laboratorio01\ServicioTiendita\pe.com.tiendita.bo\obj\Debug\pe.com.tiendita.bo.pdb
